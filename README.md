@@ -6,7 +6,7 @@
 ### <div align="center">I am a neophiliac with knack for building scalable and reliable systems 🛠️ along with learning product development 🧩</div>  
   
 
-- 🔭 I’m currently building tech as a Senior Software Engineer at [Captain Fresh](https://www.captainfresh.in/)  
+- 🔭 As a SDE-3, I am currently transforming complex challenges into scalable, robust systems and fostering team excellence at [Captain Fresh](https://www.captainfresh.in/)  
   
 
 - 🌱 In the past I have built systems at [Ula](https://landing.ula.app/) and [Deutsche Telekom Digital Labs](https://dtdl.in/)  
@@ -15,7 +15,7 @@
 - ❓ I'm a IIIT Allahabad Alumni 🎓 and a former GitHub Campus Expert 🚩  
   
 
-- ⚡ I build stuff using Golang and Typescript  
+- ⚡ I build stuff using Java, Golang and Typescript  
   
 
 <br/>  
